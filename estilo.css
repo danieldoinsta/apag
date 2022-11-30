@@ -1,0 +1,56 @@
+body{
+    background-repeat: repeat-y;
+    margin-left: 3%;
+    background-attachment: fixed;
+    background-image: url(fundo.jpg);
+}
+
+head{
+    background-color:rgba(9, 128, 9, 0.881);
+}
+
+h1{
+    background: fixed;
+    background-color: rgb(255, 255, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+h1:hover{
+    background-color: aquamarine;
+}
+
+header{
+    display:inline-block;
+    position:static;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    background-color:rgb(255, 255, 255);
+    text-align:center;
+}
+
+h2{
+    background: fixed;
+    background-color: rgb(255, 255, 255);
+}
+
+h2:hover{
+    background-color: aquamarine;
+}
+
+figure{
+    float: left;
+    
+    text-align: center;
+    font-size: smaller;
+    background-color: white;
+}
+
+figure:hover{
+    background-color: aquamarine;
+}
+
+img{
+    width: 500px;
+
+}
